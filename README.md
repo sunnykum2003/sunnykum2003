@@ -13,7 +13,7 @@
 - 💡 Interested in **RAG, LLM applications, backend systems and APIs**
 - 🧠 300+ problems solved on **LeetCode**
 - 🏆 Represented **NIT Delhi** in inter-college bodybuilding competitions
-- 📫 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sunny-kumar-50bb35249/)
 
 ---
 
@@ -49,12 +49,12 @@
 ### 🎥 YouTube Learn
 AI video learning assistant using **RAG, HuggingFace embeddings, pgvector and LLMs**.
 
-🔗 [View Repository](YOUR_YOUTUBE_REPO_URL)
+🔗 [View Repository](https://github.com/sunnykum2003/youtube-learn.git)
 
 ### 🍎 Cal-Track
 Nutrition tracking application with **React Native, Gemini, Firebase and Clerk**, including image-based meal analysis and nutrition data retrieval.
 
-🔗 [View Repository](YOUR_CALTRACK_REPO_URL)
+🔗 [View Repository](https://github.com/vikash-2312/3rd-year-project.git)
 
 ---
 
