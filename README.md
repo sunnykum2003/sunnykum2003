@@ -12,7 +12,6 @@
 - 🌱 Learning **Software Engineering, System Design & Machine Learning**
 - 💡 Interested in **RAG, LLM applications, backend systems and APIs**
 - 🧠 300+ problems solved on **LeetCode**
-- 🏆 Represented **NIT Delhi** in inter-college bodybuilding competitions
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sunny-kumar-50bb35249/)
 
 ---
